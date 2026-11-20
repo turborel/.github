@@ -57,7 +57,7 @@ database.
 | Repository | About |
 |---|---|
 | [**turborel**](https://github.com/turborel/turborel) | The server, `turboreld`, the CLI, `turborel`, and the Rust library |
-| [**studio**](https://github.com/turborel/studio) | Your databases, visualized through a GUI |
+| [**studio**](https://github.com/turborel/studio) | Query, model, tune, administer Turborel from one desktop app. |
 
 **Drivers**, released together with the server
 
