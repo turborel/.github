@@ -27,19 +27,19 @@
 
 ---
 
-**Turborel** (TUR-boh-rel) is a relational database built from scratch in
+Turborel (TUR-boh-rel) is n open-source relational database in
 Rust, designed for high performance and a small footprint, with broad
 compatibility across the modern ecosystem. It isn't a fork of another
 database.
 
-- **Standard SQL as one language**, from SQL-86 through SQL:2023.
-- **Tables, graphs, vectors, JSON, XML, spatial and full-text search** in
+- Standard SQL as one language, from SQL-86 through SQL:2023.
+- Tables, graphs, vectors, JSON, XML, spatial and full-text search in
   one database, under the same transactions.
-- **Row or columnar storage**, chosen per table.
-- **Extensible throughout**: storage engines, index methods, types,
+- Row or columnar storage, chosen per table.
+- Extensible throughout storage engines, index methods, types,
   functions, optimizer rules and more are plug-ins you can replace or add
   to.
-- **Embedded or distributed**: a library in your Rust app, or the
+- Embedded or distributed where a library in your Rust app, or the
   `turboreld` server, replicated with Viewstamped Replication.
 
 > Turborel is in alpha. Anything may change from one build to the next.
@@ -92,11 +92,9 @@ builds [turborel.com](https://turborel.com).
 
 ## Get involved
 
-⭐ Star [turborel/turborel](https://github.com/turborel/turborel) to follow
-along, chat with us on [Discord](https://discord.gg/Fkf3ST2YPP), and get
-release news by [newsletter](https://forms.gle/YNJ5YGpBTFW9vvTj8).
+Join on [Discord](https://discord.gg/Fkf3ST2YPP), and get
+release news by [newsletter](https://forms.gle/YNJ5YGpBTFW9vvTj8) or on Turborel's blog.
 
-Contributions are welcome. Pull requests ask you to sign the Contributor
-License Agreement once.
+Contributions are welcome. 
 
 <sub>Open source under the BSD-2-Clause Plus Patent License. © Turborel Inc.</sub>
