@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<h3 align="center">Every kind of data. One SQL.</h3>
-
 <p align="center">
   <a href="https://turborel.com">Website</a> ·
   <a href="https://turborel.com/docs/">Docs</a> ·
