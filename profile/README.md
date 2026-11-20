@@ -56,7 +56,7 @@ database.
 
 **The database**
 
-| | |
+| Repository | About |
 |---|---|
 | [**turborel**](https://github.com/turborel/turborel) | The server, `turboreld`, the CLI, `turborel`, and the Rust library |
 | [**studio**](https://github.com/turborel/studio) | Your databases, visualized through a GUI |
@@ -77,14 +77,14 @@ database.
 
 **Running it**
 
-| | |
+| Repository | About |
 |---|---|
 | [**charts**](https://github.com/turborel/charts) | Helm charts, at [charts.turborel.com](https://charts.turborel.com/) |
 | [**turborel-operator**](https://github.com/turborel/turborel-operator) | A Kubernetes operator for Turborel |
 
 **Benchmarks**: Turborel's forks of standard tools
 
-| | |
+| Repository | About |
 |---|---|
 | [**sysbench**](https://github.com/turborel/sysbench) | Scriptable database and system benchmarks |
 | [**HammerDB**](https://github.com/turborel/HammerDB) | TPROC-C and TPROC-H, derived from TPC-C and TPC-H |
