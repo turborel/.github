@@ -27,7 +27,7 @@
 
 ---
 
-Turborel (TUR-boh-rel) is n open-source relational database in
+Turborel (TUR-boh-rel) is an open-source relational database in
 Rust, designed for high performance and a small footprint, with broad
 compatibility across the modern ecosystem. It isn't a fork of another
 database.
